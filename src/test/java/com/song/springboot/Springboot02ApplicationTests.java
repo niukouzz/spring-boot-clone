@@ -1,4 +1,4 @@
-package com.song.springboot02;
+package com.song.springboot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

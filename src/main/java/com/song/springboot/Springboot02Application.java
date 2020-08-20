@@ -1,4 +1,4 @@
-package com.song.springboot02;
+package com.song.springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
